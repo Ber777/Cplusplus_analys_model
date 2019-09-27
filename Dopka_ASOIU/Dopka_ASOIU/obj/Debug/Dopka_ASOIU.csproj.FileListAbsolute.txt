@@ -1,0 +1,11 @@
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\bin\Debug\Dopka_ASOIU.exe.config
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\bin\Debug\Dopka_ASOIU.exe
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\bin\Debug\Dopka_ASOIU.pdb
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.csprojResolveAssemblyReference.cache
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.Form1.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.Properties.Resources.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.csproj.GenerateResource.Cache
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.exe
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.pdb
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.Form2.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Debug\Dopka_ASOIU.Form3.resources

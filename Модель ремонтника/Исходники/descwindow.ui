@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DescWindow</class>
+ <widget class="QMainWindow" name="DescWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>840</width>
+    <height>633</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Описание параметров аналитической модели ремонтника</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>560</y>
+      <width>781</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вернуться к расчетам</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>20</y>
+      <width>471</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>tno [час] - среднее время наработки на отказ одного компьютера</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>50</y>
+      <width>381</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>tr [час] - среднее время ремонта одного компьютера</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>80</y>
+      <width>211</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>N - количество компьютеров</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>110</y>
+      <width>391</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>C - количество специалистов по ремонту компьютеров</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>140</y>
+      <width>521</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>salary [руб/час] - зарплата одного специалиста по ремонту компьютеров</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>170</y>
+      <width>611</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>loss [руб/(компьютер час)] - финансовые потери от одного неисправного компьютера </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>200</y>
+      <width>531</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>P0 - определение вероятности состояния системы рассматриваемой СМО</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>230</y>
+      <width>531</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Q - среднее количество компьютеров, находящихся в очереди на ремонт</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>260</y>
+      <width>741</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>L - среднее количество компьютеров, находящихся в неисправном состоянии</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>290</y>
+      <width>511</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>W [час] - среднее время нахождения компьютера в очереди на ремонт</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_11">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>320</y>
+      <width>681</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>U - среднее количество компьютеров, которое непосредственно ремонтируются специалистом</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_12">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>350</y>
+      <width>431</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>p0 - коэффициент загрузки одного специалиста по ремонту</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_13">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>380</y>
+      <width>351</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>n - среднее количество исправных компьютеров</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_14">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>410</y>
+      <width>731</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>pe - коэффициент загрузки компьютера (доля времени, в течении которого компьютер был исправен)</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>440</y>
+      <width>781</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Тр [час] - среднее время пребывания компьютера в неисправном состоянии (в очереди на ремонт и ремонте)</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_16">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>470</y>
+      <width>341</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Тц [час] - среднее время цикла для компьютера</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_17">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>500</y>
+      <width>581</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>pe/p0 - отношение коэффициентов загрузки компьютера к загрузке ремонтника</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_18">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>530</y>
+      <width>371</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Убытки организации [руб/час] - убытки организации</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>840</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

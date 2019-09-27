@@ -1,0 +1,10 @@
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\bin\Release\Dopka_ASOIU.exe.config
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\bin\Release\Dopka_ASOIU.exe
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\bin\Release\Dopka_ASOIU.pdb
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.Form1.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.Form2.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.Form3.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.Properties.Resources.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.csproj.GenerateResource.Cache
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.exe
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Dopka_ASOIU\Dopka_ASOIU\obj\Release\Dopka_ASOIU.pdb
